@@ -1,0 +1,6 @@
+# Secrets - never commit
+.booth.password
+.env-local
+
+# Lock file is version-controlled
+# Binaries are in ~/.cache/codingbooth/ (not here)
